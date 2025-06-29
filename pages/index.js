@@ -10,12 +10,10 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <h1 className={styles.title}>
           Read <Link href="/posts/first-post">this page</Link>
         </h1>
-
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
         </p>
